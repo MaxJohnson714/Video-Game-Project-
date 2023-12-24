@@ -18,7 +18,7 @@ Link to [dashboard](https://public.tableau.com/app/profile/maximillian.johnson/v
 I decided to make both the pie chart showcasing a given companys marketshare and a bubble chart of the mosst popular genres as filters. My reasoning is that cosidering that these some of the most important decisions ABC devolpers can make, they should be able to use the dashoard to elaborate on these decisions.
 
 ### So What? 
-ABC DEvelopers should be able to use the dashboard to have a general understanding of the markets of various generes and companies. An ex
+ABC Developers should be able to use the dashboard to have a general understanding of the markets of various generes and companies. An example could be if they wanted tom make a puzzle game, they could filter for it to see that Nintendo holds almost 98% market share with Nintendo themselves being the the larget publisher for the genre. Overall this dashboard should fit the stakeholders needs.  
 
 
 
