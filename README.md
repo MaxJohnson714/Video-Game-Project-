@@ -14,7 +14,7 @@ It is 2018 and I am a entry level data analyis and I am assigned to the company 
 In shaping the dataset, I converted the **Year_of_Release** to an integer and filtered records for the years 2010 through 2016. I grouped up the data to get an understanding of the various platforms, and a subsequent categorization by major companies (Nintendo, Sony, Microsoft) was done. To streamline the dataset, unnecessary columns were removed, focusing on key variables. Addressing duplicate game names resulted from multi-platform releases, I kept duplicates, using Concat to combine the Names with the platforms they were realeased on distiguishing each value. A specific duplicate issue was manually resolved in Google Sheets. These steps were crucial for aligning the dataset with the project's goals, preparing it for Tableau visualizations.
 
 ###  Visualization
-Link to [dashboard](https://public.tableau.com/app/profile/maximillian.johnson/viz/VideoGameDashboard_17033980787800/Dashboard1#1) 
+Link to [dashboard](https://public.tableau.com/app/profile/maximillian.johnson/viz/VideoGameDashBoard_17032090372230/Dashboard1) 
 I decided to make both the pie chart showcasing a given companys marketshare and a bubble chart of the mosst popular genres as filters. My reasoning is that cosidering that these some of the most important decisions ABC devolpers can make, they should be able to use the dashoard to elaborate on these decisions.
 
 ### So What? 
