@@ -1,4 +1,4 @@
-## Console Video game Markert analysis 
+## Console Video game Market analysis 
 by Max Johnson 
 ### Data 
 [Video Game Sales with Ratings
